@@ -13,7 +13,7 @@
   <p>Jenkins.war</p>
   <p>Triggered from Github-Webhook</p>
 
-<img src="automotive.jpeg" alt="www.jenkins.io" width="104" height="142">
+<img src="automotive.jpeg" width="104" height="142">
   
 </body>
 </html>
