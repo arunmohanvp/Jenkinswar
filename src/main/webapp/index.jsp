@@ -7,13 +7,13 @@
 
 <body>
 
-  <h1>Welcome to Our Company</h1>
-  <h2>Web Site Main Ingredients:</h2>
+  <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+  
+  <h1>Welcome to Our Jenkins</h1>
+  <h2>This is Jenkins Integration</h2>
 
-  <p>Pages (HTML)</p>
-  <p>Style Sheets (CSS)</p>
-  <p>Computer Code (JavaScript)</p>
-  <p>Live Data (Files and Databases)</p>
+  <p>Jenkins.war</p>
+  <p>Triggered from Github-Webhook</p>
 
 </body>
 </html>
