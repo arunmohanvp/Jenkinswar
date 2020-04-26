@@ -13,7 +13,7 @@
   <h3>Jenkins.war</h3>
   <h4>Triggered from Github-Webhook</h4>
 
-<img src="jenkins.jpeg" width="400" height="450">
+<img src="jenkins.jpeg" width="300" height="350">
 <a href="https://www.jenkins.io/">Jenkins.io</a>
   
 </body>
