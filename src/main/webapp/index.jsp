@@ -1,5 +1,19 @@
+<!DOCTYPE html>
 <html>
+
+<head>
+  <title>Our Company</title>
+</head>
+
 <body>
-<h2>Jenkins Successfully Deployed War file in Tomcat using pipleline project and also configured webhook trigger</h2>
+
+  <h1>Welcome to Our Company</h1>
+  <h2>Web Site Main Ingredients:</h2>
+
+  <p>Pages (HTML)</p>
+  <p>Style Sheets (CSS)</p>
+  <p>Computer Code (JavaScript)</p>
+  <p>Live Data (Files and Databases)</p>
+
 </body>
 </html>
